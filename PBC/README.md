@@ -7,4 +7,4 @@
 
 
 
-![title image](/images/title.jpg)
+![title image](/PBC/Imágenes/Colisión.jpg)

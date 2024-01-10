@@ -7,4 +7,4 @@
 
 
 
-![title image](/PBC/Imágenes/Colisión.jpg)
+![Colisión entre PCB y Raspberry PI](/PBC/Imágenes/Colisión.jpg)

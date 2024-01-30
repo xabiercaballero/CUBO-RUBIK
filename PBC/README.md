@@ -1,7 +1,7 @@
 
 ![Colisión entre PCB y Raspberry PI](/PBC/Imágenes/Colisión.jpg)
 
-Como se puede apreciar en la imagen superior, el tamaño de la placa superior, hace que el extremo derecho colisione con las conexiones del rasperry, antes de que los pines del raperru, entren en las conexiones de la placa. Por lo tanto, se rediseñará la placa para que su tamaño sea el adecuado.
+Como se puede apreciar en la imagen superior, el tamaño de la placa superior, hace que el extremo derecho colisione con las conexiones del rasperry, antes de que los pines del rasperry, entren en las conexiones de la placa. Por lo tanto, se rediseñará la placa para que su tamaño sea el adecuado.
 
 ![image](https://github.com/xabiercaballero/CUBO-RUBIK/assets/156079321/ff3ec040-07ae-40d6-887b-5971ed2e6b0b)
 

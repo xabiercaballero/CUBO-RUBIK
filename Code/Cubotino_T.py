@@ -3153,6 +3153,7 @@ def robot_move_cube(robot_moves, total_robot_moves, solution_Text, start_time, s
             solved = True                                      # solved variable is set true
             tot_robot_time, robot_solving_time = robot_time_to_solution(start_time, start_robot_time,\
                                                                         total_robot_moves)  # cube solved function is called
+            Melody_Win() ### Make this sound whe the cube its solved####
             disp.show_on_display('CUBE', 'SOLVED !', y1=22, fs1=36)     # feedback is printed to the display 
             if total_robot_moves != 0:                         # case the robot had to move the cube to solve it
                 if not silent:                                 # case silent variable is set False

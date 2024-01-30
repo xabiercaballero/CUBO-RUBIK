@@ -3,7 +3,7 @@
 
 """ 
 #############################################################################################################
-#  Andrea Favero, 28 January 2024
+#  Xabier Caballero Unai Bustinza and Ander Florez, 28 January 2024
 #
 #  This code relates to CUBOTino autonomous, a very small and simple Rubik's cube solver robot 3D printed.
 #  CUBOTino autonomous is the 'Top version', of the CUBOTino robot series.
@@ -34,7 +34,7 @@
 
 
 # __version__ variable
-version = '6.5 (28 Jan 2024)'
+version = '8 (30 Jan 2024)'
 
 
 ################  setting argparser for robot remote usage, and other settings  #################

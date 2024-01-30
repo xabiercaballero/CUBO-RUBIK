@@ -1,5 +1,6 @@
 
-![Colisión entre PCB y Raspberry PI](/PBC/Imágenes/Colisión.jpg)
+![image](https://github.com/xabiercaballero/CUBO-RUBIK/assets/155981959/8f8138f8-ae2f-469e-b5d9-71d6387b7dec)
+
 
 Al observar detenidamente la imagen superior, se evidencia que las dimensiones de la placa del circuito impreso (PCB) generan un inconveniente, ya que su extremo derecho entra en conflicto con las conexiones del dispositivo Raspberry Pi. Este problema surge antes de que los pines del Raspberry Pi logren establecer una conexión adecuada con la placa. En consecuencia, se tomará la decisión de llevar a cabo una modificación en el diseño de la placa, ajustando sus dimensiones para garantizar un encaje óptimo y evitar posibles interferencias en las conexiones. Este proceso de rediseño se lleva a cabo con el objetivo de mejorar la funcionalidad y la integración entre la placa y el Raspberry Pi, asegurando así un rendimiento eficiente y sin contratiempos.
 

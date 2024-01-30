@@ -4535,8 +4535,10 @@ if __name__ == "__main__":
     global Rpi_ZeroW, cycles_num, picamera_test, quit_script
 
     import sys, time
-    
-    
+####################################################
+#### The melody sounds until the Cube is solved####
+  Turn_On_Buzzer()
+####################################################    
     ################    general settings on how the robot is operated ###############################
     debug = False           # flag to enable/disable the debug related prints
     if args.debug != None:  # case 'debug' argument exists
